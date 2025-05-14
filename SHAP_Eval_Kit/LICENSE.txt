@@ -1,0 +1,1 @@
+MIT License を採用（詳しくは LICENSE を参照）
