@@ -1,7 +1,7 @@
 # SHAP_Eval_Kit
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
-(https://colab.research.google.com/github/henka-d87tg83ic2/SHAP_Eval_Kit/blob/main/notebooks/SHAP_analysis_template.ipynb)
+(https://colab.research.google.com/github/ユーザー名/リポジトリ名/blob/main/notebooks/SHAP_analysis_template.ipynb)
 
 SHAP_Eval_Kit は、SHAP（SHapley Additive exPlanations）を用いて、機械学習モデルの2次元構造的な挙動を詳細に可視化・分析するためのテンプレートと評価記録群です。
 
